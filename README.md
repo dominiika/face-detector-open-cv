@@ -5,6 +5,8 @@ The app can be used to track people using a particular computer.
 
 ### Prerequisites
 
+Python 3.6
+
 Install dependencies:
 
 ```
